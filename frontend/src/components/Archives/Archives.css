@@ -1,0 +1,20 @@
+.four{
+	text-align: center;
+	height:100%;
+	width:100%;
+	background-image: linear-gradient(to right, #009AEE, #00ADF2,#00BFFF, #00CDFE, #7BD9F6, #1484CD);
+
+}
+.kunjannambiar{
+	height:250px;
+	width:300px;
+}
+
+.bdy{
+	margin: 0%;
+	margin-top: 0%;
+}
+.hname{
+	padding: 0%;
+	margin: 0%;
+}
